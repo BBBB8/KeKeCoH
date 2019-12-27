@@ -1,0 +1,38 @@
+{
+  "name": "AFLIXX",
+  "short_name": "aflixx",
+  "start_url": "https://news.aflixx.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "aflixx.com watch free movie, netflix, iflix, aflix, streaming online, watch movie, korean, kpop, kshow, drama and many more.",
+  "icons": [{
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-dMV70kuhrlo/Xdh4CwGD07I/AAAAAAAAAH4/ke0F_N80XZooiuG2XtPOxeBSjyQMSDmlQCNcBGAsYHQ/s48/favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-dMV70kuhrlo/Xdh4CwGD07I/AAAAAAAAAH4/ke0F_N80XZooiuG2XtPOxeBSjyQMSDmlQCNcBGAsYHQ/s72/favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-dMV70kuhrlo/Xdh4CwGD07I/AAAAAAAAAH4/ke0F_N80XZooiuG2XtPOxeBSjyQMSDmlQCNcBGAsYHQ/s96/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-dMV70kuhrlo/Xdh4CwGD07I/AAAAAAAAAH4/ke0F_N80XZooiuG2XtPOxeBSjyQMSDmlQCNcBGAsYHQ/s144/favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-dMV70kuhrlo/Xdh4CwGD07I/AAAAAAAAAH4/ke0F_N80XZooiuG2XtPOxeBSjyQMSDmlQCNcBGAsYHQ/s168/favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-dMV70kuhrlo/Xdh4CwGD07I/AAAAAAAAAH4/ke0F_N80XZooiuG2XtPOxeBSjyQMSDmlQCNcBGAsYHQ/s192/favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-dMV70kuhrlo/Xdh4CwGD07I/AAAAAAAAAH4/ke0F_N80XZooiuG2XtPOxeBSjyQMSDmlQCNcBGAsYHQ/s512/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
